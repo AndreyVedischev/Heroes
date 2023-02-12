@@ -1,5 +1,3 @@
-package Seminar.units;
-
 import Seminar.units.Sniper;
 
 public class Main {
